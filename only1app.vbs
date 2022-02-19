@@ -17,3 +17,4 @@ If (strProcessCounter >= 1) then
 End if
 
 objShell.Run("""C:\Windows\system32\notepad.exe""")
+
